@@ -39,12 +39,11 @@ print(f"{np.linalg.norm(a,np.inf):.2f}")
 
 
 ### 2-Norm of a Matrix
-<img width="1262" height="615" alt="image" src="https://github.com/user-attachments/assets/fb8830c6-52bb-426f-8285-d02c18bbdeb5" />
+<img width="307" height="126" alt="image" src="https://github.com/user-attachments/assets/ccc8a7c4-4a22-4f91-9add-a899e353d4a0" />
 
 
 ### Infinity Norm of a Matrix
-<img width="1269" height="585" alt="image" src="https://github.com/user-attachments/assets/edceb4b3-ff33-4e1a-996f-401add4af8a3" />
-
+<img width="315" height="90" alt="image" src="https://github.com/user-attachments/assets/5bf3d7e2-c193-460d-83e7-1be4f8681e52" />
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
